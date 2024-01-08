@@ -22,7 +22,8 @@ namespace DataGrid
         
         public MainWindow()
         {
-            InitializeComponent();          
+            InitializeComponent();
+            
         }
 
         //Загрузка содержимого таблицы

@@ -24,3 +24,17 @@ C:\Users\Fishman_1\Downloads\DataGridSimple\DataGrid\obj\Debug\DataGrid.csproj.G
 C:\Users\Fishman_1\Downloads\DataGridSimple\DataGrid\obj\Debug\DataGrid.csproj.CoreCompileInputs.cache
 C:\Users\Fishman_1\Downloads\DataGridSimple\DataGrid\obj\Debug\DataGrid.exe
 C:\Users\Fishman_1\Downloads\DataGridSimple\DataGrid\obj\Debug\DataGrid.pdb
+D:\Github\DataGridSimple-08-01-2024\DataGrid\bin\Debug\DataGrid.exe.config
+D:\Github\DataGridSimple-08-01-2024\DataGrid\bin\Debug\DataGrid.exe
+D:\Github\DataGridSimple-08-01-2024\DataGrid\bin\Debug\DataGrid.pdb
+D:\Github\DataGridSimple-08-01-2024\DataGrid\obj\Debug\DataGrid.csproj.AssemblyReference.cache
+D:\Github\DataGridSimple-08-01-2024\DataGrid\obj\Debug\MainWindow.baml
+D:\Github\DataGridSimple-08-01-2024\DataGrid\obj\Debug\MainWindow.g.cs
+D:\Github\DataGridSimple-08-01-2024\DataGrid\obj\Debug\App.g.cs
+D:\Github\DataGridSimple-08-01-2024\DataGrid\obj\Debug\DataGrid_MarkupCompile.cache
+D:\Github\DataGridSimple-08-01-2024\DataGrid\obj\Debug\DataGrid.g.resources
+D:\Github\DataGridSimple-08-01-2024\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+D:\Github\DataGridSimple-08-01-2024\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.cache
+D:\Github\DataGridSimple-08-01-2024\DataGrid\obj\Debug\DataGrid.csproj.CoreCompileInputs.cache
+D:\Github\DataGridSimple-08-01-2024\DataGrid\obj\Debug\DataGrid.exe
+D:\Github\DataGridSimple-08-01-2024\DataGrid\obj\Debug\DataGrid.pdb

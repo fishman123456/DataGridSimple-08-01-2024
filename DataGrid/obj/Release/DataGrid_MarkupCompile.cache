@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\Github\DataGridSimple-08-01-2024\DataGrid\obj\Debug\
+D:\Github\DataGridSimple-08-01-2024\DataGrid\obj\Release\
 DataGrid
 none
 false
-DEBUG;TRACE
+TRACE
 D:\Github\DataGridSimple-08-01-2024\DataGrid\App.xaml
 1219584333
 
